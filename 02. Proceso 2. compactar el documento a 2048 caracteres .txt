@@ -1,0 +1,61 @@
+>> entregame un resumen con los aspectos claves en una salida de 250 palabras y etiquetalo como [ARGUMENTOS DE DEFENSA Nro1 HOMERO SIMPSON]. toma como entrada la siguiente información: 
+
+NOVENO: Que esta Dirección atendiendo los argumentos expuestos por la sociedad recurrente y en cumplimiento de lo previsto en el artículo 80 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, se pronunciará frente a cada uno de ellos, así: 9.1. En relación con el recurso de reposición y en subsidio de apelación presentado por el usuario HOMERO SIMPSON. Al respecto, manifestó el usuario: “No se trata únicamente de que la EMPRESA DE TELECOMUNICACIONES ACME. hubiera omitido remitir a esa entidad el expediente contentivo del recurso de apelación que en su momento interpuse, es la manera como durante espacio superior a doce meses no atendieron mis reclamaciones que les hacía de manera mensual. Las mismas tenían que ver con mi inconformidad porque en el mes de octubre de 2019 no se me prestó el servicio durante todo el tiempo de ese mes, no obstante lo cual la factura llegó cobrando la totalidad de ese período, siendo de destacar que la misma se me allegó después de suspenderme el servicio porque no me la enviaban en físico como la solicité y de lo cual hay constancia. A partir de ahí y durante prácticamente todo el año siguiente nunca quisieron arreglar el tema de la factura, no obstante que todos los meses presenté oportunamente los reclamos del caso solicitando se me expidiera factura por las sumas que no eran objeto de la reclamación, peticiones que nunca fueron atendidas, violando lo que al respecto preceptúa la Ley 142 de 1994. Eso generó que al no tener esa factura, por negligencia de la EMPRESA DE TELECOMUNICACIONES ACME., no podía cancelar las sumas que eran objeto de mi reclamo y la empresa procedía a la suspensión del servicio, de manera arbitraria. Ante esa situación y como el internet es mi herramienta de trabajo y la de dos de los miembros de mi familia, todos los meses siguientes y durante casi todo el año 2022 me vi obligado a pagar la factura por el valor que se le daba la gana a los empleados de la EMPRESA DE TELECOMUNICACIONES ACME., porque siempre me suspendían el servicio, sin que yo conociera la factura con por lo menos 5 días de antelación a la fecha señalada para el pago, como lo ordena la ley 142 de 1994, pues no me la enviaban y yo me enteraba era cuando se me suspendía el servicio. No es válido que hoy la EMPRESA DE TELECOMUNICACIONES ACME. venga a justificarse diciendo que realizó algunos ajustes, porque lo cierto es que durante casi un año me suspendió el servicio y me obligó a pagar lo que a sus empleados le dio la gama (sic). Los atropellos a los que nos sometió durante más de un año la EMPRESA DE TELECOMUNICACIONES ACME. generaron traumatismos de todo orden en mi núcleo familiar, ante la zozobra que cada mes genera la arbitraria e injusta suspensión del servicio de telefonía e internet y el consecuente traumatismo de las actividades escolares de mi hijastro, así como las laborales de mi esposa y el suscrito, todas las cuales en un alto porcentaje dependen del internet, sumado a que la ACME me obligó, desde esa época a dejar las actividades que si son importantes para mí, sentarme, cada mes, a redactar una queja y a hacer interminables llamadas telefónicas a esa empresa para protestar por la injusta suspensión del servicio Ustedes no se pronunciaron frente a mis peticiones contenidas en los numerales 3 al 11 de la queja por mí interpuesta, a lo cual ruego proceder (…)”. 
+
+
+>>[ARGUMENTOS DE DEFENSA Nro1 HOMERO SIMPSON]
+
+El usuario Homero Simpson ha presentado un recurso de reposición y, en subsidio, un recurso de apelación en respuesta a la Resolución No. 70634 emitida por esta Dirección. A continuación, se resumen los argumentos clave planteados por el usuario:
+
+Homero Simpson afirma que el incumplimiento de ACME de remitir el expediente del recurso de apelación no es un hecho aislado. Durante más de doce meses, la empresa no atendió sus reclamaciones mensuales relacionadas con la falta de prestación del servicio en octubre de 2019. A pesar de no haber recibido el servicio completo durante ese mes, la factura llegó cobrando el importe total. Además, destaca que la factura se le entregó después de que se le suspendiera el servicio debido a la falta de envío físico, tal como solicitó.
+
+Homero Simpson sostiene que durante todo el año siguiente, ACME se negó a solucionar el problema de la factura, a pesar de que presentó reclamaciones mensuales solicitando una factura por las sumas no objeto de reclamación, peticiones que nunca fueron atendidas, violando la Ley 142 de 1994. Esto resultó en la imposibilidad de pagar las sumas reclamadas debido a la falta de la factura correspondiente, lo cual llevó a ACME a suspender el servicio de manera arbitraria.
+
+Debido a la importancia del internet como herramienta de trabajo para él y dos miembros de su familia, Homero Simpson se vio obligado a pagar la factura por el valor determinado unilateralmente por los empleados de ACME, ya que el servicio siempre era suspendido sin que él tuviera conocimiento de la factura con al menos 5 días de anticipación, como lo establece la Ley 142 de 1994.
+
+Homero Simpson enfatiza que los abusos sufridos durante más de un año por parte de ACME generaron traumatismos en su núcleo familiar. La suspensión arbitraria del servicio de telefonía e internet afectó negativamente las actividades escolares de su hijastro y las actividades laborales de su esposa y él mismo, las cuales dependen en gran medida del internet. Además, ACME lo obligó a interrumpir actividades importantes para presentar quejas y realizar numerosas llamadas telefónicas para protestar por la suspensión injusta del servicio.
+
+En su recurso, Homero Simpson solicita que esta Dirección se pronuncie sobre las peticiones contenidas en los numerales 3 al 11 de su queja, solicitando una respuesta adecuada a estos aspectos.
+
+En conclusión, los argumentos de defensa presentados por Homero Simpson destacan la falta de atención y los problemas generados por ACME en relación con la facturación y la suspensión arbitraria del servicio, lo cual ha causado inconvenientes y traumatismos significativos en su núcleo familiar.
+
+>> entregame un resumen con los aspectos claves en una salida de 250 palabras y etiquetalo como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro1]. toma como entrada la siguiente información: 9.1.1. Consideraciones de la Dirección. Al respecto, sea lo primero indicarle al usuario que, una vez recibida la denuncia por usted presentada el 26 de octubre de 2020, el Despacho procedió a requerir a la sociedad sancionada el 10 de noviembre de 2020, solicitando la siguiente información: “1. Copia legible de las peticiones, quejas y recursos .......
+
+[RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro1]
+La Dirección procedió a requerir a la sociedad sancionada, ACME, la información solicitada en respuesta a la denuncia presentada por el usuario Homero Simpson el 26 de octubre de 2020. ACME proporcionó la documentación requerida el 25 de noviembre de 2020.
+Después de analizar los documentos aportados por ACME, la Dirección determinó que existía mérito para iniciar una investigación administrativa sobre la decisión empresarial del 3 de febrero de 2020, identificada con .........
+
+
+>> entregame un resumen con los aspectos claves en una salida de 250 palabras y etiquetalo como [ARGUMENTOS DE DEFENSA Nro2 HOMERO SIMPSON]. toma como entrada la siguiente información: 9.2. En relación con el argumento “Indebida valoración probatoria -Falsa motivación.” El proveedor de servicios de comunicaciones manifestó: “Lo primero que queremos resaltar es que consideramos bastante desafortunada la manera como se decidió la Resolución sancionatoria, sin hacer referencia alguna al análisis probatorio que en extenso se realizó por parte de ACME en sus Descargos y Alegato .......
+
+
+[ARGUMENTOS DE DEFENSA Nro2 HOMERO SIMPSON]
+En relación con el argumento de "Indebida valoración probatoria - Falsa motivación", ACME, el proveedor de servicios de comunicaciones, expone que la Resolución sancionatoria carece de análisis probatorio y se enfoca únicamente en afirmar que no se realizaron ajustes, sin considerar las evidencias presentadas por ACME en sus Descargos y Alegatos. ACME sostiene que se realizaron ajustes paso a paso, respaldados por facturas y documentos, y que el acto administrativo no los tuvo en cuenta.
+ACME señala que atendió todas las solicitudes del usuario y aplicó un ajuste de $367.769,08 ........
+
+
+>>entregame un resumen con los aspectos claves en una salida maxima de 250 palabras y etiquetalo como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro2 PARTEA]. toma como entrada la siguiente información: 9.2.1. Consideraciones de la Dirección Al respecto, es pertinente indicarle al proveedor de servicios que, la falsa motivación como vicio causante de la invalidez del acto administrativo, tiene un doble enfoque que resulta necesario analizar.......
+
+>>entregame un resumen con los aspectos claves en una salida maxima de 250 palabras y etiquetalo como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro2 PARTEB]. toma como entrada la siguiente información: En consecuencia, solicitó que le realizaran los ajustes correspondientes y el reintegro el dinero de los cobros generados en los últimos 3 meses por las fallas del servicio, así también, pidió interponer el recurso subsidiario de apelación. Por consiguiente, la sociedad investigada respondió el recurso de reposición y en subsidio 
+
+>> necesito que unas en un solo documento las etiquetas RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro2 PARTEA Y PARTEB y lo reetiquetes como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro2 ]
+
+ChatGPT
+Aquí tienes la respuesta combinada a los argumentos de defensa número 2, etiquetada como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro2]:
+En consecuencia, solicitó que le realizaran los ajustes correspondientes y el reintegro del dinero de los cobros generados en los últimos 3 meses por las fallas del servicio, así también, pidió interponer el recurso subsidiario de apelación.
+Por consiguiente, la sociedad investigada respondió el recurso de reposición y en subsidio de apelación el 3 de febrero de 2020 informándole lo siguiente.......
+
+>> entregame un resumen con los aspectos claves en una salida maxima de 250 palabras y etiquetalo como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro3 PARTEA]. toma como entrada la siguiente información: 9.3.1. Consideraciones de la Dirección. En primer lugar, la Dirección advierte a la sociedad recurrente que la dosificación sancionatoria, que se....
+
+>> entregame un resumen con los aspectos claves en una salida maxima de 250 palabras y etiquetalo como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro3 PARTEB]. toma como entrada la siguiente información: Es por ello, que la sociedad además de infringir la normativa endilgada en el pliego de cargos desconoció el derecho fundamental de petición....
+
+>> necesito que unas en un solo documento las etiquetas RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro3 PARTEA Y PARTEB, lo reduzcas a 250 palabras como maximo y lo reetiquetes como [RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro3]
+
+ChatGPT
+[RESPUESTA ABOGADO A ARGUMENTOS DE DEFENSA Nro3]
+La sociedad investigada infringió la normativa establecida y desconoció el derecho fundamental de petición. La conducta del investigado no puede considerarse diligente según el criterio establecido.
+La investigación y la sanción se fundamentaron en la violación de la Ley 1341 de 2009 y la Resolución CRC 5050 de 2016. El proveedor omitió remitir el expediente del recurso de apelación a la Superintendencia, lo cual configuró un supuesto de hecho sancionable........
+
+
+
+
